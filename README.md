@@ -1,5 +1,4 @@
 # ReDI School – HTML & CSS Intro
-###### 11.09.18
 
 ✅
 <br>
