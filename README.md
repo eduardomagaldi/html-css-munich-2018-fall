@@ -1,8 +1,6 @@
 # ReDI School – HTML & CSS Intro
 ###### 11.09.18
 
--
-
 ✅
 <br>
 Follow this document from top to bottom. <br>
@@ -53,7 +51,7 @@ Click <a href="https://github.com/join" target="_blank">here</a> to start creati
 
 ## Code Editor
 
-You can write HTML & CSS even in Word but a Code Editor gives you some help doing this.
+You can write `HTML` & `CSS` even in Word but a Code Editor gives you some help doing this.
 <br> **Visual Studio Code** is a great one.
 <br>Plus, it's free ⭐️
 
