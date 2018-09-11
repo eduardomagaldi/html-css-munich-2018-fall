@@ -2,7 +2,8 @@
 
 #### ✅ How does this work?
 Follow this document from top to bottom. <br>
-It's like a checklist to help you setting everything you need for the class. <br><br>
+It's like a checklist to help you setting everything you need for the class. <br>
+It is not just for the `First day`, so don't worry if we are not going to complete this in one shot 😄<br><br>
 
 #### 💁‍ It's very easy
 Try to do it on your own – it will help you getting more familiar with the tools we will use. <br><br>
@@ -13,11 +14,48 @@ Raise your hand if you encounter any obstacle – your teachers are here to assi
 
 ## Code Editor
 
-> You can write `HTML` & `CSS` even in Word but a Code Editor gives you some help doing this.
+> You can write `HTML` & `CSS` even in Word or a simpel Text Editor but a Code Editor gives you lots of help.
 > <br> **Visual Studio Code** is a great one. Plus, it's free ⭐️
 
 Let's download it <a href="https://code.visualstudio.com/download" target="_blank">here</a>.
 <br><br><br>
+
+## What is a Terminal?
+
+Material and code for every lesson will be shared amongst us all.<br>
+To do it, we creat a GitHub account. GitHub is a place where we can save our code and progress over our work.
+<br>
+<br>
+GitHub works with **git**.<br>
+**git** is a tool that lets you share and collaborate with other develpoers. <br><br>
+It provides you some commands that you can type in order to do that.<br>
+This commands are typed and run in the _Terminal_. <br><br>
+Let's give it a try to understand it better.
+
+<br>
+
+## How to use the Terminal
+
+#### 🏠 If you have `Windows` Operating System
+
+First of all, go <a href="https://github.com/git-for-windows/git/releases/tag/v2.18.0.windows.1" target="_blank">here</a> to download a useful _Terminal_ for Windows.<br><br>
+Once done, open it.
+<br><br><br>
+
+#### 🍎 If you have `Apple` Operating System
+
+In this case, the `Terminal` comes built in with all that is needed.<br>
+(To run `git` the System will probably ask you to install some Apple stuff... it's nothing dangerous, so don't worry!)<br><br>
+Go to `Finder > Applications > Utilities` and double-click on `Terminal.app`
+<br><br><br>
+
+#### 🖥 Let's run our first command
+
+Now comes the fun part (that's how professional programmers do so... get ready!) 🙌
+
+> coming soon... 
+
+<br><br>
 
 ## Github Account
 
@@ -53,37 +91,3 @@ Click <a href="https://github.com/join" target="_blank">here</a> to start creati
 8. Congrats 🎉 You're now a proud GitHub User and gonna make great things! <br><br>
 ![](assets/github-signup-05.png "my profile")
 <br><br><br>
-
-## Using git on Mac
-
-> Material and code for every lesson will be shared amongst us all.<br>
-> To do it, we will use the GitHub account you just created.
-<br>
-<br>
-> **git** is a tool that lets you share and collaborate on code. <br>
-> It gives you some commands that you can type in order to do that. <br>
-> This commands are run in the _Terminal_.
-<br>
-<br>
-> Let's give it a try to understand it better.
-
-<br><br>
-
-#### 🏠 If you have `Windows` Operating System
-
-First of all, go <a href="https://github.com/git-for-windows/git/releases/tag/v2.18.0.windows.1" target="_blank">here</a> to download a useful _Terminal_ for Windows.<br><br>
-Once done, open it.
-<br><br><br>
-
-#### 🍎 If you have `Apple` Operating System
-
-In this case, the `Terminal` comes built in with all that is needed.<br>
-(To run `git` the System will probably ask you to install some Apple stuff... it's nothing dangerous, so don't worry!)<br><br>
-Go to `Finder > Applications > Utilities` and double-click on `Terminal.app`
-<br><br><br>
-
-#### 🖥 Let's run our first command
-
-Now comes the fun part (that's how professional programmers do so... get ready!) 🙌
-
-> coming soon... 
