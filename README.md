@@ -9,12 +9,20 @@ Try to do it on your own – it will help you getting more familiar with the to
 
 #### 🙋‍ You can always ask for help
 Raise your hand if you encounter any obstacle – your teachers are here to assist you at any time!
+<br><br><br>
 
+## Code Editor
+
+> You can write `HTML` & `CSS` even in Word but a Code Editor gives you some help doing this.
+> <br> **Visual Studio Code** is a great one. Plus, it's free ⭐️
+
+Let's download it <a href="https://code.visualstudio.com/download" target="_blank">here</a>.
+<br><br><br>
 
 ## Github Account
 
-All of the work we make will be available at any time, everywhere. <br>
-**GitHub** is a website from which you can share your code and collaborate with others.
+> All of the work we make will be available at any time, everywhere. <br>
+> **GitHub** is a website from which you can share your code and collaborate with others.
 
 Click <a href="https://github.com/join" target="_blank">here</a> to start creating yout account.
 <br><br><br>
@@ -42,33 +50,40 @@ Click <a href="https://github.com/join" target="_blank">here</a> to start creati
 ![](assets/github-signup-04.png "Done")
 <br><br><br>
 
-8. Congrats 🎉 <br>You're now a proud GitHub User and gonna make great things! <br><br>
+8. Congrats 🎉 You're now a proud GitHub User and gonna make great things! <br><br>
 ![](assets/github-signup-05.png "my profile")
 <br><br><br>
 
-## Code Editor
-
-You can write `HTML` & `CSS` even in Word but a Code Editor gives you some help doing this.
-<br> **Visual Studio Code** is a great one.
-<br>Plus, it's free ⭐️
-
-Let's download it <a href="https://code.visualstudio.com/download" target="_blank">here</a>.
-
-
 ## Using git on Mac
 
-Material and code for every lesson will be shared amongst us. <br>T
-To do it, we will use the GitHub account you just created.
+> Material and code for every lesson will be shared amongst us all.<br>
+> To do it, we will use the GitHub account you just created.
 <br>
 <br>
-_git_ is a tool that let you share and collaborate on code. <br>
-It gives you some commands that you can type in order to do that. <br>
-This commands are run in the _Terminal_
+> **git** is a tool that lets you share and collaborate on code. <br>
+> It gives you some commands that you can type in order to do that. <br>
+> This commands are run in the _Terminal_.
 <br>
 <br>
-Let's give it a try to understand it better.
+> Let's give it a try to understand it better.
 
-First of all, go <a href="https://github.com/git-for-windows/git/releases/tag/v2.18.0.windows.1" target="_blank">here</a> to download a useful terminal for Win. <br> Once done, open it.
+<br><br>
+
+#### 🏠 If you have `Windows` Operating System
+
+First of all, go <a href="https://github.com/git-for-windows/git/releases/tag/v2.18.0.windows.1" target="_blank">here</a> to download a useful _Terminal_ for Windows.<br><br>
+Once done, open it.
 <br><br><br>
 
-Now comes the fun part – that's how professional programmers do so get ready 🙌
+#### 🍎 If you have `Apple` Operating System
+
+In this case, the `Terminal` comes built in with all that is needed.<br>
+(To run `git` the System will probably ask you to install some Apple stuff... it's nothing dangerous, so don't worry!)<br><br>
+Go to `Finder > Applications > Utilities` and double-click on `Terminal.app`
+<br><br><br>
+
+#### 🖥 Let's run our first command
+
+Now comes the fun part (that's how professional programmers do so... get ready!) 🙌
+
+> coming soon... 
